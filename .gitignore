@@ -166,7 +166,7 @@ pip-log.txt
 ##LaTeX
 #############
 
-
+*.bbl
 *.dvi
 *.blg
 *.aux
