@@ -7,12 +7,13 @@ ANDRE MODELLER
 Tekstlig beskrivelse
 Dette gjelder datastore, nivådeling og lagringsmodell
 
-SIKKERHETSPROBLEMER
-Finn på noe og skriv
-
 INTRODUKSJON
 Stuff
 
-
+PROPOSE A SOLUTION
+NUDL: Description of our concept
+Justify our choices
+Analyze the problem areas around our design
+Security issues
 
 
