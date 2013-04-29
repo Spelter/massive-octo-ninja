@@ -166,11 +166,11 @@ pip-log.txt
 ##LaTeX
 #############
 
-.aux
-.log
-.out
-.toc
-.pdf
-.synctex.gz
-.dvi
-.blg
+*.aux
+*.log
+*.out
+*.toc
+*.pdf
+*.synctex.gz
+*.dvi
+*.blg
