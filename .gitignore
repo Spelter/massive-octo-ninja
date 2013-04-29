@@ -172,3 +172,5 @@ pip-log.txt
 .toc
 .pdf
 .synctex.gz
+.dvi
+.blg
