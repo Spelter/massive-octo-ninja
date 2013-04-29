@@ -1,1 +1,18 @@
+BPMN MODELLER
 Fiks modellene så vi får med det vi fikk kritikk for på siste presentasjon
+Gjør om til skikkelig BPMN, ikke vårt crappy greier
+Tekstlig beskrivelse av modellene
+
+ANDRE MODELLER
+Tekstlig beskrivelse
+Dette gjelder datastore, nivådeling og lagringsmodell
+
+SIKKERHETSPROBLEMER
+Finn på noe og skriv
+
+INTRODUKSJON
+Stuff
+
+
+
+
