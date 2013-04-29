@@ -1,13 +1,13 @@
-BPMN MODELLER
+BPMN MODELLER - Håvard tar dette
 Fiks modellene så vi får med det vi fikk kritikk for på siste presentasjon
 Gjør om til skikkelig BPMN, ikke vårt crappy greier
 Tekstlig beskrivelse av modellene
 
-ANDRE MODELLER
+ANDRE MODELLER - Jan tar dette
 Tekstlig beskrivelse
 Dette gjelder datastore, nivådeling og lagringsmodell
 
-INTRODUKSJON
+INTRODUKSJON 
 Stuff
 
 PROPOSE A SOLUTION

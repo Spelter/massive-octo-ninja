@@ -1,0 +1,13 @@
+\section{Other models}
+	Bladibladibla stuff here tudum di da didada
+	
+	\subsection{Central Datastore}
+		We propose creating a central datastore containing all public information about NTNU. We will provide APIs that will give easy access to all the data, and the APIs will be open to the public. 
+		% Tenk IME-API!
+NUDL will use this datastore to retrieve all necessary information about courses, rooms and timetables so it will need to be constantly updated in order to contain the most recent information. This means that third party developers will have equal access to non-restricted data, which we hope will enable students and staff to write their own tools which can easily be integrated in to NUDL. We aim to make NUDL a platform to which tools can be added and removed as needed, not a monolithic system where someone else is in control. 
+
+	\subsection{Storage model}
+		The datastore mentioned in the previous section will only containt publicly available information. In addition we will have two other seperate databases; one userstore containing information about staff and students, and one database storing everything related to the individual courses. The userstore will be fully secured against unauthorized access, and only the users will have access to their individual information. The course database will be used to supply the same functionality as It'sLearning does today. 
+		
+	\subsection{User interface} 
+		We want NUDL to present users with a user-friendly and unified interface. It will not be like today, where you have different interfaces for It's Learning, Studweb and Eksamensweb. It's Learning and Eksamensweb will be replaced by NUDL, and Studweb will be hidden from view. Students can log in to Studweb from NUDL, via Feide, but they will be met by the NUDL interface, which will take care of the communication with Studweb.
