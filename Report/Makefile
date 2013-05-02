@@ -11,9 +11,9 @@ pdf: report.tex bibliography.bib
 	bibtex ${FIL}
 	pdflatex ${FIL}
 	pdflatex ${FIL}
-	rm report.aux report.blg report.bbl report.toc report.log report.out
+	rm report.aux report.blg report.bbl report.toc report.log report.out report.lof
 	rm sections/*.aux
 
 clean:
-	rm report.aux report.blg report.bbl report.toc report.log report.out
+	rm report.aux report.blg report.bbl report.toc report.log report.out report.lof
 	rm sections/*.aux
