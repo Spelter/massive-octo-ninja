@@ -6,11 +6,11 @@ sources of threats have to be considered and risks have to identified to be able
 of this project and will not be discussed further. Our focus on security for this course has been access and control.
 
 \subsection{Login}
-As mentioned earlier, login through FEIDE is an option and will most certainly be used for the low-level security. FEIDE provides the right mixture between security and practicality for everyday use. We do acknowledge that using one login for the whole system would seem practical, but it also means that it would be very easy to get access to other students private information. Therefore will our system include a second security level for which the user will have to provide a generated token to log in. Two-factor authentication increases the security of the systems by many factors and is our eyes crucial. Today's system uses a 4-digit pin-code for the user to get access to all grades. This is too weak, and we are actually quite astonished that this is still in use. 
+As mentioned earlier, login through FEIDE is an option and will most certainly be used for the low-level security. FEIDE provides the right mixture between security and practicality for everyday use. We do acknowledge that using one login for the whole system would seem practical, but it also means that it would be very easy to get access to other students private information. Therefore will our system include a second security level for which the user will have to provide a generated token to log in. Two-factor authentication increases the security of the systems by many factors, and is our eyes crucial. Today's system uses a 4-digit pin-code for the user to get access to all grades. This is too weak, and we are actually quite astonished that this is still in use. 
 
-\subsubsection{Authenthication methods}
-To make the system flexible we want to design login around pluggable authentication modules, allowing easy upgrades to the system if one technology becomes obsolete. To provide the 
+\subsubsection{Authentication methods}
+To make the system flexible, we want to design login around pluggable authentication modules, allowing easy upgrades to the system if one technology becomes obsolete. To provide the 
 two-factor authentication there are several possibilities, however - we do think that the best solution is the systems where the users receive an SMS with a one-time code. 
 
 \subsection{Access control}
-Authentication is not everything, just because a user is logged in does not mean they are privelieged for any action. To make sure that information is secure and is kept secure the system will be designed with redundant access control layers and separation of duty for staff to make sure that information is kept where it's supposed to - in the system. 
+Authentication is not everything, just because a user is logged in does not mean they are privileged for any action. To make sure that information is secure and is kept secure the system will be designed with redundant access control layers and separation of duty for staff to make sure that information is kept where it's supposed to - in the system. 
